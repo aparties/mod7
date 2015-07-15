@@ -1,3 +1,3 @@
   <h3>Nombre del autor <%= nombre %></h3>
-  <img src="/images/Plaza-de-Armas-Sechura.jpg" width="10%" />
-  <p>Yo mismo, para más se&ntilde;as!</p>
+  <img src="/images/Plaza-de-Armas-Sechura.jpg" width="50%" />
+  <p>Perú, país maravilloso!</p>
